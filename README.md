@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagicuSS7Gur.
-- 👀 I’m interested in coding on Lua and Python.
-- 🌱 I’m currently learning Lua, Python and C++.
+- 👀 I’m interested in coding on Python and Java Script.
+- 🌱 I’m currently learning Arduino, Lua, Python, C++ and Java Script.
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 Private information.
 
